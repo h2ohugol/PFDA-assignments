@@ -18,3 +18,19 @@ Create a Jupyter Notebook (`assignment2-weather.ipynb`) that plots the temperatu
 - Use **Pandas** to read in the data.
 - Generate a plot that visualizes the temperature (`dryBulbTemperature_Celsius`) over time.
 - Ensure the plot is clear and well-labeled.
+
+## Assignment 3: Email Domains Pie Chart
+
+### Objective
+Create a Jupyter Notebook (`assignment03-pie.ipynb`) that displays a pie chart of people's email domains based on the provided CSV file.
+
+### Dataset
+- The dataset is available at this URL:
+  [Download CSV](https://drive.google.com/uc?id=1AWPf-pJodJKeHsARQK_RHiNsE8fjPCVK&export=download)
+- The file contains 1000 entries.
+
+### Instructions
+- You can either download the data or link to it directly.
+- Use the CSV data to extract email domains.
+- Plot a pie chart showing the distribution of email domains.
+- Ensure the code is clean, concise, and well-commented.
