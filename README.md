@@ -49,3 +49,25 @@ Write a program (`assignment_5_risk.py` or `assignment_5_risk.ipynb`) that simul
 - Create a plot that visualizes the outcomes (e.g., attacker losses, defender losses, win rates, etc.).
 - Use your creativity for the visualization; there are no strict guidelines.
 
+## Assignment 6: Weather Data Analysis
+***
+
+### Objective
+Create a Python program or notebook (`assignment_6_Weather.py` or `assignment_6_Weather.ipynb`) that analyzes weather data from a provided CSV file.
+
+### Dataset
+- The dataset is available at this URL:
+  [Weather Data CSV](https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv)
+
+### Instructions
+
+#### Temperature Analysis
+- Plot the temperature over time.
+- Calculate and plot the **mean temperature** for each day.
+- Calculate and plot the **mean temperature** for each month.
+
+#### Windspeed Analysis
+- Plot the windspeed (handle missing data appropriately).
+- Calculate and plot the **rolling average windspeed** over 24 hours.
+- Calculate and plot the **maximum windspeed** for each day.
+- Calculate and plot the **monthly mean of daily maximum windspeeds**.
