@@ -71,3 +71,11 @@ Create a Python program or notebook (`assignment_6_Weather.py` or `assignment_6_
 - Calculate and plot the **rolling average windspeed** over 24 hours.
 - Calculate and plot the **maximum windspeed** for each day.
 - Calculate and plot the **monthly mean of daily maximum windspeeds**.
+
+## General Requirements
+***
+
+- All code should be **well-documented** with concise comments explaining each step.
+- Include clear and labeled visualizations where applicable.
+- Ensure reproducibility and clean architecture in all scripts and notebooks.
+
