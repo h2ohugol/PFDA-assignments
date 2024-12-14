@@ -3,7 +3,7 @@
 This will be a mix of small PFDA (programming-for-data-analytics) practical assignments.
 Lecture by Andrew Baetty at ATU.
 
-![weatherrisk](img/img/weather_risk20241214.jpg)
+![weatherisk](img/weather_risk20241214.jpg)
 
 # Assignments Overview
 
