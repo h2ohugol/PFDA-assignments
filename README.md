@@ -1,7 +1,7 @@
 # PFDA-assignments
 
 This will be a mix of small PFDA (programming-for-data-analytics) practical assignments.
-Lecture by Andrew Baetty at [ATU](https://www.atu.ie/).
+Lecture by Andrew Beatty at [ATU](https://www.atu.ie/).
 
 ![weatherisk](img/weather_risk20241214.jpg)
 
@@ -72,10 +72,18 @@ Create a Python program or notebook (`assignment_6_Weather.py` or `assignment_6_
 - Calculate and plot the **maximum windspeed** for each day.
 - Calculate and plot the **monthly mean of daily maximum windspeeds**.
 
-## General Requirements
+### General Requirements
 ***
 
 - All code should be **well-documented** with concise comments explaining each step.
 - Include clear and labeled visualizations where applicable.
 - Ensure reproducibility and clean architecture in all scripts and notebooks.
 
+### Technologies
+***
+
+- [Python](https://www.python.org/): Core language for all assignments.
+- [Pandas](https://pandas.pydata.org/docs/)For data manipulation and analysis.
+- [Matplotlib](https://matplotlib.org/): For creating visualizations.
+- [NumPy](https://numpy.org/): For numerical computations.
+- [Jupyter Notebooks](https://jupyter.org/): For interactive code and documentation.
