@@ -19,7 +19,7 @@ Create a Jupyter Notebook (`assignment2-weather.ipynb`) that plots the temperatu
 ### Instructions
 - Use **Pandas** to read in the data.
 - Generate a plot that visualizes the temperature (`dryBulbTemperature_Celsius`) over time.
-- Ensure the plot is clear and well-labeled.
+- Ensure the plot is clear and well-labelled.
 
 ## Assignment 3: Email Domains Pie Chart
 ***
@@ -53,7 +53,7 @@ Write a program (`assignment_5_risk.py` or `assignment_5_risk.ipynb`) that simul
 ***
 
 ### Objective
-Create a Python program or notebook (`assignment_6_Weather.py` or `assignment_6_Weather.ipynb`) that analyzes weather data from a provided CSV file.
+Create a Python program or notebook (`assignment_6_Weather.py` or `assignment_6_Weather.ipynb`) that analyses weather data from a provided CSV file.
 
 ### Dataset
 - The dataset is available at this URL:
@@ -76,14 +76,14 @@ Create a Python program or notebook (`assignment_6_Weather.py` or `assignment_6_
 ***
 
 - All code should be **well-documented** with concise comments explaining each step.
-- Include clear and labeled visualizations where applicable.
+- Include clear and labelled visualizations where applicable.
 - Ensure reproducibility and clean architecture in all scripts and notebooks.
 
 ### Technologies
 ***
 
 - [Python](https://www.python.org/): Core language for all assignments.
-- [Pandas](https://pandas.pydata.org/docs/)For data manipulation and analysis.
+- [Pandas](https://pandas.pydata.org/docs/): For data manipulation and analysis.
 - [Matplotlib](https://matplotlib.org/): For creating visualizations.
 - [NumPy](https://numpy.org/): For numerical computations.
 - [Jupyter Notebooks](https://jupyter.org/): For interactive code and documentation.
